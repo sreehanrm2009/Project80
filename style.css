@@ -1,0 +1,10 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+    text-align: center;
+    background-color: #9ACD32;
+}
+
+input {
+    font-family: inherit;
+    padding: 1em;
+}
